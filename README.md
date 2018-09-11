@@ -1,2 +1,2 @@
-# CNN (Work in progress)
-CNN implementation using (almost) only numpy
+# CNN
+Bare-bones CNN implementation using (almost) only numpy
